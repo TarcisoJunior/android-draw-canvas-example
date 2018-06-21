@@ -3,5 +3,5 @@ Esse é um aplicativo com um exemplo simples de marcação e desenho sobre o can
 
 
 <a href="http://www.tarcisojunior.com.br/img/github/android-draw-canvas.gif">
-  <img src="http://www.tarcisojunior.com.br/img/github/android-draw-canvas.gif">
+  <img src="http://www.tarcisojunior.com.br/img/github/android-draw-canvas.gif" width="240px">
 </a>
